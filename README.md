@@ -1,4 +1,4 @@
-# Error while instantiating a mod of type HarmonyMod.HarmonyMain: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.ExecutionEngineException: String conversion error: Illegal byte sequence encounted in the input.
+Error while instantiating a mod of type HarmonyMod.HarmonyMain: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.ExecutionEngineException: String conversion error: Illegal byte sequence encounted in the input.
   at (wrapper managed-to-native) System.Reflection.Assembly.get_code_base(System.Reflection.Assembly,bool)
   at System.Reflection.Assembly.GetCodeBase (System.Boolean escaped) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
   at System.Reflection.Assembly.get_CodeBase () [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
